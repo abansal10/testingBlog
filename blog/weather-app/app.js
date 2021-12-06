@@ -9,6 +9,10 @@ const listfnction=(locations)=>{
 const mylistArray=["Akash","Kumar","Bansal"]
 
 listfnction(mylistArray)
+listfnction(mylistArray)
+listfnction(mylistArray)listfnction(mylistArray)
+listfnction(mylistArray)
+listfnction(mylistArray)
 
 
 
